@@ -1,16 +1,6 @@
-<!-- Your title -->
+
 ## Hello, I'm Al-Amin Hossain Full Stack Web Developer
 As a Full Stack Web Developer with expertise in JavaScript, React JS, Express JS, Node js, Next Js, MongoDB, Tailwind CSS, HTML5, and CSS3. I bring a comprehensive skill set to every project. My journey in web development has been fueled by a passion for creating dynamic and responsive websites that look great and provide exceptional user experiences.
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-Reach out to me on... </br>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AlaminHossainDev/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alaminhossaindev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/alaminhossain_dev/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:prodeveloperalamin@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:prodeveloperalamin@gmail.com)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -46,3 +36,11 @@ Reach out to me on... </br>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=AlaminHossainDev&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br />
+
+## Reach out to me ...
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AlaminHossainDev/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alaminhossaindev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/alaminhossain_dev/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:prodeveloperalamin@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:prodeveloperalamin@gmail.com)
+
