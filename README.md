@@ -2,7 +2,6 @@
 ## Hello, I'm Al-Amin Hossain Full Stack Web Developer
 As a Full Stack Web Developer with expertise in JavaScript, React JS, Express JS, Node js, Next Js, MongoDB, Tailwind CSS, HTML5, and CSS3. I bring a comprehensive skill set to every project. My journey in web development has been fueled by a passion for creating dynamic and responsive websites that look great and provide exceptional user experiences.
 
-I'm glad to see you here... <img height="180em" src="https://github-readme-stats.vercel.app/api/AlaminHossainDev=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
